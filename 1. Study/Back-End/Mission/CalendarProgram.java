@@ -20,10 +20,10 @@ public class CalendarProgram {
 
     System.out.println();
 
-    // 3개월의 달력을 저장할 배열 생성 (이전 달, 현재 달, 다음 달)
+		// 3개월의 달력을 저장할 배열 생성 (이전 달, 현재 달, 다음 달)
     String[] calendars = new String[3];
 
-    // 입력받은 월을 기준으로 이전 달, 현재 달, 다음 달의 달력 생성
+		// 입력받은 월을 기준으로 이전 달, 현재 달, 다음 달의 달력 생성
     for (int i = -1; i <= 1; i++) {
       YearMonth yearMonth = YearMonth.of(year, month).plusMonths(i);
       calendars[i + 1] = generateCalendar(yearMonth);
