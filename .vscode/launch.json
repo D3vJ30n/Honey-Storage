@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "StarPattern",
+      "request": "launch",
+      "mainClass": "StarPattern",
+      "projectName": "Work_3bf3a97c"
+    },
+    {
+      "type": "java",
+      "name": "testtest",
+      "request": "launch",
+      "mainClass": "testtest",
+      "projectName": "Work_3bf3a97c"
+    },
+    {
+      "type": "java",
       "name": "Main9",
       "request": "launch",
       "mainClass": "Main9",
