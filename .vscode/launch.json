@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "VirtualElectionSimulation",
+      "request": "launch",
+      "mainClass": "VirtualElectionSimulation",
+      "projectName": "Work_3bf3a97c"
+    },
+    {
+      "type": "java",
+      "name": "LottoGenerator",
+      "request": "launch",
+      "mainClass": "LottoGenerator",
+      "projectName": "Work_3bf3a97c"
+    },
+    {
+      "type": "java",
       "name": "StarPattern",
       "request": "launch",
       "mainClass": "StarPattern",
