@@ -6,6 +6,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RealtimeElectionSimulation",
+      "request": "launch",
+      "mainClass": "RealtimeElectionSimulation",
+      "projectName": "Work_3bf3a97c"
+    },
+    {
+      "type": "java",
+      "name": "DetailedElectionSimulation",
+      "request": "launch",
+      "mainClass": "DetailedElectionSimulation",
+      "projectName": "Work_3bf3a97c"
+    },
+    {
+      "type": "java",
+      "name": "ElectionSimulation",
+      "request": "launch",
+      "mainClass": "ElectionSimulation",
+      "projectName": "Work_3bf3a97c"
+    },
+    {
+      "type": "java",
+      "name": "UserControlledPresidentVote",
+      "request": "launch",
+      "mainClass": "UserControlledPresidentVote",
+      "projectName": "Work_3bf3a97c"
+    },
+    {
+      "type": "java",
+      "name": "UserInputPresidentVote",
+      "request": "launch",
+      "mainClass": "UserInputPresidentVote",
+      "projectName": "Work_3bf3a97c"
+    },
+    {
+      "type": "java",
+      "name": "PresidentVote",
+      "request": "launch",
+      "mainClass": "PresidentVote",
+      "projectName": "Work_3bf3a97c"
+    },
+    {
+      "type": "java",
       "name": "VirtualElectionSimulation",
       "request": "launch",
       "mainClass": "VirtualElectionSimulation",
