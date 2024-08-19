@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "JuniorTaxCalculator2022Revised",
+      "request": "launch",
+      "mainClass": "JuniorTaxCalculator2022Revised",
+      "projectName": "Work_3bf3a97c"
+    },
+    {
+      "type": "java",
+      "name": "Tax",
+      "request": "launch",
+      "mainClass": "Tax",
+      "projectName": "Work_3bf3a97c"
+    },
+    {
+      "type": "java",
       "name": "RealtimeElectionSimulation",
       "request": "launch",
       "mainClass": "RealtimeElectionSimulation",
