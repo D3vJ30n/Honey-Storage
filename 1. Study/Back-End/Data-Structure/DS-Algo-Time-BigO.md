@@ -84,7 +84,7 @@ f(n)과 g(n)이 주어졌을 때, n≥n₀에 대해 |f(n)| ≤ c·|g(n)|을 만
 
 ## Big-O 표기법의 종류 및 비교
 
-`O(1) < O(log[n]) < O(n) < O(n∗log[n]) < O(n²) < O(2ⁿ) < O(n!)`
+O(1) < O(log[n]) < O(n) < O(n∗log[n]) < O(n²) < O(2ⁿ) < O(n!)
 ![alt text](image.png)
 
 ## Big-Ω & Big-θ 표기법
