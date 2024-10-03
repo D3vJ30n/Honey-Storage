@@ -1,9 +1,6 @@
 import java.util.Scanner;
 
 public class CashbackCalculator {
-  // ANSI 이스케이프 코드 정의: 콘솔 출력 시 텍스트 색상을 변경하는 데 사용
-  public static final String ANSI_GREEN = "\u001B[32m"; // 텍스트를 녹색으로 변경
-  public static final String ANSI_RESET = "\u001B[0m";  // 텍스트 색상을 기본값으로 재설정
 
   public static void main(String[] args) {
     // Scanner 객체 생성: 사용자로부터 입력을 받기 위해 사용
@@ -17,9 +14,6 @@ public class CashbackCalculator {
     
     // 사용자로부터 정수형태의 결제 금액 입력 받기
     int paymentAmount = scanner.nextInt();
-    
-    // 입력받은 금액을 녹색으로 출력
-    System.out.println(ANSI_GREEN + paymentAmount + ANSI_RESET);
 
     // calculateCashback 메소드를 호출하여 캐시백 금액 계산
     int cashback = calculateCashback(paymentAmount);
