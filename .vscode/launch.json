@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DemoApplication",
+      "request": "launch",
+      "mainClass": "DemoApplication",
+      "projectName": "Work_3bf3a97c"
+    },
+    {
+      "type": "java",
       "name": "VariableExchangeExample",
       "request": "launch",
       "mainClass": "Study.혼공자.VariableExchangeExample",
