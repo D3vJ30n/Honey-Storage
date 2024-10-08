@@ -24,7 +24,7 @@ class Ambulance extends Car {
     }
 }
 
-public class Practice {
+public class 다형성 {
     public static void main(String[] args) {
         // Test code
         Car car = new Car();

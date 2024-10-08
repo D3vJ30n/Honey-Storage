@@ -230,6 +230,6 @@ public class Practice {
     }
 
     public static void main(String[] args) {
-        new Class2().run();
+        new 클래스객체2().run();
     }
 }

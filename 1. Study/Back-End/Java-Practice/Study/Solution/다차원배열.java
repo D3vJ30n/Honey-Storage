@@ -1,4 +1,4 @@
-public class Basic_06 {
+public class 다차원배열 {
     public static void main(String[] args) {
         // 1. 일차원 배열
         System.out.println("== 일차원 배열 ==");

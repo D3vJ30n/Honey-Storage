@@ -1,7 +1,7 @@
 // Java 프로그래밍 - 조건문 예제
 // 이 클래스는 if문과 switch문의 기본적인 사용법을 보여줍니다.
 // 실제 프로그래밍에서 자주 사용되는 조건문의 다양한 활용 사례를 다룹니다.
-public class Basic_04 {
+public class 조건문 {
     public static void main(String[] args) {
         // 1. 조건문 - if
         // if문은 주어진 조건이 참일 때 특정 코드 블록을 실행합니다.

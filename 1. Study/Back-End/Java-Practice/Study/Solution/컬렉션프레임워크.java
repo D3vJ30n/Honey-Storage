@@ -3,7 +3,7 @@
 
 import java.util.*;
 
-public class Practice {
+public class 컬렉션프레임워크 {
     public static void main(String[] args) {
 
         HashSet set = new HashSet();

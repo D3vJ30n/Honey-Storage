@@ -1,5 +1,5 @@
 // Java 프로그래밍 - 변수와 자료형_3
-public class Basic_02_3 {
+public class 변수와자료형3 {
     public static void main(String[] args) {
         // 1. 자료형 - 문자열
         System.out.println("== 문자열 ==");

@@ -39,7 +39,7 @@ class Animal {
 }
 
 
-public class Practice {
+public class 클래스객체3 {
     public static void main(String[] args) {
         // Test code
         Animal animal1 = new Animal("강아지", 5.0, "포유류");

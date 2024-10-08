@@ -1,7 +1,7 @@
 // Java 프로그래밍 - 반복문
 // 이 클래스는 for, while, do-while 등 다양한 반복문의 사용법을 설명합니다.
 // 반복문은 같은 코드를 여러 번 실행해야 할 때 사용되며, 프로그래밍의 핵심 구문입니다.
-public class Basic_05 {
+public class 반복문 {
     public static void main(String[] args) {
         // 1. 반복문 - for
         // for문은 반복 횟수가 정해져 있을 때 주로 사용합니다.

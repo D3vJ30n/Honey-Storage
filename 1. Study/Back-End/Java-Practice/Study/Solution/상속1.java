@@ -27,7 +27,7 @@ class Cat extends Animal {
     }
 }
 
-public class Practice1 {
+public class 상속1 {
     public static void main(String[] args) {
         // Test code
         Cat cat = new Cat();

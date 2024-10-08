@@ -1,6 +1,6 @@
 // Java 프로그래밍 - 변수와 자료형_1
 
-public class Basic_02_1 {
+public class 변수와자료형 {
     public static void main(String[] args) {
         // 1. 변수 사용하기
         System.out.println("== 변수 사용하기 ==");

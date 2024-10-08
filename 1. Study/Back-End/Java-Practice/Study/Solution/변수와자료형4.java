@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.HashMap;
 
-public class Basic_02_4 {
+public class 변수와자료형4 {
     public static void main(String[] args) {
 
         // 1. 자료형 - 리스트 (ArrayList)
