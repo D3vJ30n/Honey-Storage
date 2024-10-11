@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Practice3 {
+public class Practice08 {
     public static String solution(String input, String cmd) {
         // StringBuffer를 사용하는 이유
         // 1. 문자열을 자주 수정할 때 String보다 빠르고 효율적

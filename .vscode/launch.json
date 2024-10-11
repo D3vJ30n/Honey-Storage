@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "숫자의합",
+      "request": "launch",
+      "mainClass": "알고리즘코딩테스트.숫자의합",
+      "projectName": "Work_3bf3a97c"
+    },
+    {
+      "type": "java",
+      "name": "CashbackCalculator",
+      "request": "launch",
+      "mainClass": "Mission.CashbackCalculator",
+      "projectName": "Work_3bf3a97c"
+    },
+    {
+      "type": "java",
+      "name": "Assignment5",
+      "request": "launch",
+      "mainClass": "Assignment5",
+      "projectName": "Work_3bf3a97c"
+    },
+    {
+      "type": "java",
+      "name": "CalendarProgram",
+      "request": "launch",
+      "mainClass": "Mission.CalendarProgram",
+      "projectName": "Work_3bf3a97c"
+    },
+    {
+      "type": "java",
       "name": "DemoApplication",
       "request": "launch",
       "mainClass": "DemoApplication",

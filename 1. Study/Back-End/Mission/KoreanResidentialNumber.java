@@ -1,3 +1,4 @@
+package Mission;
 import java.util.Scanner; // 사용자 입력을 받기 위한 Scanner 클래스 import
 import java.util.Random;  // 난수 생성을 위한 Random 클래스 import
 
