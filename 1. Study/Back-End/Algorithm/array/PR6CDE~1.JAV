@@ -8,7 +8,7 @@
 public class Practice5 {
   public static void main(String[] args) {
     // 정렬할 배열 선언 및 초기화
-    int[] arr = {5, 3, 1, 4, 6, 1}; // -> 1, 1, 3, 4, 5, 6
+    int[] arr = {5, 3, 1, 4, 6, 1}; // 정렬 후: 1, 1, 3, 4, 5, 6
     
     // 방문 여부를 체크할 배열 선언 (0: 미방문, 1: 방문)
     int[] visited = new int[arr.length];
@@ -33,7 +33,6 @@ public class Practice5 {
           minIdx = i;
         }
       }
-
       // 유효한 최소값을 찾았다면
       if (minIdx != -1) {
         // 찾은 최소값 출력

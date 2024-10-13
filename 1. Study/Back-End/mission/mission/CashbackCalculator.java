@@ -1,4 +1,3 @@
-package Mission;
 import java.util.Scanner;
 
 public class CashbackCalculator {

@@ -1,4 +1,3 @@
-package Mission;
 // MultiplicationTable 클래스: 구구단을 가로 레이아웃으로 출력하는 프로그램
 public class MultiplicationTable {
   // main 메소드: 프로그램의 진입점

@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PresidentVote",
+      "request": "launch",
+      "mainClass": "Mission.PresidentVote",
+      "projectName": "Work_3bf3a97c"
+    },
+    {
+      "type": "java",
       "name": "숫자의합",
       "request": "launch",
       "mainClass": "알고리즘코딩테스트.숫자의합",
