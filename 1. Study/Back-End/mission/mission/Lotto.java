@@ -125,7 +125,7 @@ public class Lotto {
         StringBuilder sb = new StringBuilder();
         // 배열의 모든 요소를 순회함
         for (int i = 0; i < array.length; i++) {
-            // String.format을 사용하여 각 숫자를 두 자리 문자열로 변환함
+            // String.format 사용하여 각 숫자를 두 자리 문자열로 변환함
             // %02d는 2자리 정수를 나타내며, 한 자리 수의 경우 앞에 0을 붙임. 0을 빼면 한 자리 수가 되는 것이 아니라, 오히려 '0'을 붙임으로써 한 자리 수를 두 자리로 만드는 것. 이는 숫자의 자릿수를 일정하게 유지하여 출력의 정렬을 돕는 역할
             sb.append(String.format("%02d", array[i]));
             // 마지막 숫자가 아니라면 쉼표를 추가함

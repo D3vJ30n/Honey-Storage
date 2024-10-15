@@ -44,7 +44,7 @@ public class CalendarProgram {
     public static String generateCalendar(YearMonth yearMonth) {
         // StringBuilder 객체 생성
         // 달력의 내용을 동적으로 구성하기 위해 사용
-        // String 대신 StringBuilder를 사용하여 문자열 조작의 효율성 증가
+        // String 대신 StringBuilder 사용하여 문자열 조작의 효율성 증가
         StringBuilder calendar = new StringBuilder();
 
         // 이하 달력 생성 로직
@@ -54,10 +54,10 @@ public class CalendarProgram {
         // 4. 달력 높이 조정
         
         // 달력 제목 (년도와 월) 추가
-        // String.format을 사용하여 서식화된 문자열 생성
+        // String.format 사용하여 서식화된 문자열 생성
         // 달력의 제목 (년도와 월) 추가
         
-        // String.format을 사용하여 서식화된 문자열 생성 후 StringBuilder에 추가
+        // String.format 사용하여 서식화된 문자열 생성 후 StringBuilder에 추가
         calendar.append(String.format(" [%d년 %02d월]              \n", yearMonth.getYear(), yearMonth.getMonthValue()));
 
         // 1. String.format(): 지정된 형식에 따라 문자열을 생성
@@ -125,7 +125,7 @@ public class CalendarProgram {
 
         // 1. firstDayOfWeek: 해당 월의 1일이 무슨 요일인지를 나타내는 값 (0: 일요일, 1: 월요일, ..., 6: 토요일)
         // 2. weekBuilder: 한 주를 나타내는 StringBuilder 객체 (초기에 21개의 공백으로 채워져 있음)
-        // 3. replace() 메서드: StringBuilder의 특정 범위를 다른 문자열로 교체
+        // 3. replace() 메서드: StringBuilder 특정 범위를 다른 문자열로 교체
         // 4. i * 3: 교체를 시작할 인덱스(현재 날짜 칸의 시작 위치)
         // 5. i * 3 + 2: 교체를 끝낼 인덱스(현재 날짜 칸의 끝낼 위치)
         // 6. "  ": 두 개의 공백 (날짜가 없는 빈 칸을 나타냄)
@@ -149,13 +149,13 @@ public class CalendarProgram {
             if (dayOfWeek == 6 || date.plusDays(1).getMonthValue() != yearMonth.getMonthValue()) {
                 // 현재 주를 달력에 추가하고 줄바꿈
                 calendar.append(weekBuilder).append("       \n");
-                // calendar에 현재 주의 날짜들(weekBuilder)을 추가하고, 
+                // calendar 현재 주의 날짜들(weekBuilder)을 추가하고,
                 // 7개의 공백("       ")과 줄바꿈("\n")을 덧붙임
                 // 이는 각 주의 끝에 일관된 형식을 유지하기 위함
 
                 // 다음 주를 위해 weekBuilder 초기화 (7일 * 3칸 = 21칸의 공백)
                 weekBuilder = new StringBuilder("   ".repeat(7));
-                // 새로운 StringBuilder 객체를 생성하여 weekBuilder를 초기화
+                // 새로운 StringBuilder 객체를 생성하여 weekBuilder 초기화
                 // "   "을 7번 반복하여 21개의 공백으로 채움
                 // 이는 다음 주의 날짜를 채우기 위한 준비 작업
             }
@@ -163,7 +163,7 @@ public class CalendarProgram {
             // 다음 날짜로 이동
             date = date.plusDays(1);
         }
-        // LocalDate 객체인 date를 다음 날로 업데이트
+        // LocalDate 객체인 date 다음 날로 업데이트
         // plusDays(1)는 현재 날짜에 1일을 더한 새 LocalDate 객체를 반환
 
         // while 루프 종료
@@ -181,7 +181,7 @@ public class CalendarProgram {
         // 이는 달력의 높이를 항상 8줄(제목 1줄 + 요일 1줄 + 최대 6주)로 맞추기 위함
 
         // 완성된 달력 문자열 반환
-        // StringBuilder 객체인 calendar를 String으로 변환하여 반환
+        // StringBuilder 객체인 calendar String 변환하여 반환
         // 이것이 최종적으로 생성된 달력의 문자열 표현
         return calendar.toString();
     }
