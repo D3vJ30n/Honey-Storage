@@ -14,6 +14,8 @@
 // 결과: false
 
 
+import java.util.LinkedList;
+
 public class Practice2 {
     public static boolean checkPalindrome(LinkedList list) {
         Node cur = list.head;
