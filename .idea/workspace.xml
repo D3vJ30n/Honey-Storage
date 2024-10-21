@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bff5d640-f3fb-451b-896f-26508fa219bb" name="Changes" comment="20241021" />
+    <list default="true" id="bff5d640-f3fb-451b-896f-26508fa219bb" name="Changes" comment="202410211831">
+      <change afterPath="$PROJECT_DIR$/test/Practicemission1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,32 +47,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CalendarProgram (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalendarProgram.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CashbackCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Plusnumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Practice4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Tax.executor&quot;: &quot;Run&quot;,
-    &quot;Application.study.backend.mission.CalendarProgram.executor&quot;: &quot;Run&quot;,
-    &quot;Application.다차원배열.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/finalclone&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CalendarProgram (1).executor": "Run",
+    "Application.CalendarProgram.executor": "Run",
+    "Application.CashbackCalculator.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main3.executor": "Run",
+    "Application.MultiplicationTable.executor": "Run",
+    "Application.Plusnumber.executor": "Run",
+    "Application.Practice4.executor": "Run",
+    "Application.Practicemission1.executor": "Run",
+    "Application.Tax.executor": "Run",
+    "Application.study.backend.mission.CalendarProgram.executor": "Run",
+    "Application.다차원배열.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/finalclone",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\Desktop\study\Honey-Storage\study\javapractices\yswjava" />
@@ -77,6 +81,7 @@
       <recent name="C:\Users\user\Desktop\study\Honey-Storage\study\backend" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\finalclone\test" />
       <recent name="C:\Users\user\Desktop\study\Honey-Storage\study\javapractices" />
       <recent name="C:\Users\user\Desktop\study\Honey-Storage\javapractices" />
       <recent name="C:\Users\user\Desktop\study\Honey-Storage\study" />
@@ -85,7 +90,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CashbackCalculator">
+  <component name="RunManager" selected="Application.Practicemission1">
     <configuration name="CalendarProgram1" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="CalendarProgram" />
       <module name="Honey-Storage" />
@@ -96,12 +101,20 @@
     <configuration name="CashbackCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
       <option name="MAIN_CLASS_NAME" value="CashbackCalculator" />
-      <module name="Honey-Storage" />
+      <module name="finalclone" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practicemission1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="finalclone" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Practicemission1" />
       <item itemvalue="Application.CalendarProgram1" />
       <item itemvalue="Application.CashbackCalculator" />
     </list>
@@ -145,7 +158,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729502618573</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="202410211830">
+      <option name="closed" value="true" />
+      <created>1729503055564</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729503055564</updated>
+    </task>
+    <task id="LOCAL-00005" summary="202410211831">
+      <option name="closed" value="true" />
+      <created>1729503099841</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729503099841</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -153,6 +182,8 @@
     <MESSAGE value="202410210418" />
     <MESSAGE value="202410210559" />
     <MESSAGE value="20241021" />
-    <option name="LAST_COMMIT_MESSAGE" value="20241021" />
+    <MESSAGE value="202410211830" />
+    <MESSAGE value="202410211831" />
+    <option name="LAST_COMMIT_MESSAGE" value="202410211831" />
   </component>
 </project>
