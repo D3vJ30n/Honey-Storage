@@ -4,7 +4,608 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bff5d640-f3fb-451b-896f-26508fa219bb" name="Changes" comment="20241021" />
+    <list default="true" id="bff5d640-f3fb-451b-896f-26508fa219bb" name="Changes" comment="20241021">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Honey-Storage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Honey-Storage.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Honey-Storage2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/JS/01.VarConst.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/algorithm/01.Control Statements-Operators.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/css/01.Structure.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/css/02.Selector.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/css/03.font.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/css/04.Values and Units.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/css/05.BoxModel.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/css/06.Layout.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/css/07.Color.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/css/08.Important-Selector.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/css/09.Emmet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/grapmarket/images.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/grapmarket/images/banners/banner1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/grapmarket/images/banners/banner2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/grapmarket/images/icons/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/grapmarket/images/icons/camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/grapmarket/images/icons/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/grapmarket/images/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/grapmarket/images/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/grapmarket/images/products/basketball1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/grapmarket/images/products/basketball2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/grapmarket/images/products/basketball3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/grapmarket/images/products/dumbell1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/grapmarket/images/products/dumbell2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/grapmarket/images/products/keyboard1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/grapmarket/images/products/keyboard2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/grapmarket/images/products/notebook1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/grapmarket/images/products/notebook2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/grapmarket/images/products/soccerball1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/html/01.Structure.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/html/02.Tag.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/html/03.Semantic.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/Mission-01/assets/discovery/bibs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/Mission-01/assets/discovery/dumpling.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/Mission-01/assets/discovery/dyson.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/Mission-01/assets/discovery/febreze.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/Mission-01/assets/discovery/handcream.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/Mission-01/assets/discovery/hanssem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/Mission-01/assets/discovery/honeytea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/Mission-01/assets/discovery/vaseline.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/Mission-01/assets/discovery/wettissue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/Mission-01/assets/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/Mission-01/assets/favicon/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/Mission-01/assets/icon/angle-right-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/Mission-01/assets/logo/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/Mission-01/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/Mission-01/stylesheets/common/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/Mission-01/stylesheets/common/theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/Mission-01/stylesheets/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/Mission-01/stylesheets/pages/arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/Mission-01/stylesheets/pages/discovery.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/__MACOSX/Mission-01/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/__MACOSX/Mission-01/assets/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/__MACOSX/Mission-01/assets/discovery/._bibs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/__MACOSX/Mission-01/assets/discovery/._dumpling.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/__MACOSX/Mission-01/assets/discovery/._dyson.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/__MACOSX/Mission-01/assets/discovery/._febreze.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/__MACOSX/Mission-01/assets/discovery/._handcream.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/__MACOSX/Mission-01/assets/discovery/._hanssem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/__MACOSX/Mission-01/assets/discovery/._honeytea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/__MACOSX/Mission-01/assets/discovery/._vaseline.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/__MACOSX/Mission-01/assets/discovery/._wettissue.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/__MACOSX/Mission-01/assets/favicon/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/__MACOSX/Mission-01/assets/favicon/._favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/__MACOSX/Mission-01/assets/favicon/._favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/__MACOSX/Mission-01/assets/icon/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/__MACOSX/Mission-01/assets/icon/._angle-right-square.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/__MACOSX/Mission-01/assets/logo/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/__MACOSX/Mission-01/assets/logo/._logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/__MACOSX/Mission-01/stylesheets/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-01/Mission-01/__MACOSX/Mission-01/stylesheets/common/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/Mission-02.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/Mission-02/assets/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/Mission-02/assets/favicon/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/Mission-02/assets/icon/badge-rocket.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/Mission-02/assets/icon/logo_rocket_large@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/Mission-02/assets/icon/shopping.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/Mission-02/assets/logo/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/Mission-02/assets/logo/logo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/Mission-02/assets/logo/logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/Mission-02/assets/offer/boohgle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/Mission-02/assets/offer/deskset.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/Mission-02/assets/offer/drying-rack.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/Mission-02/assets/offer/furniture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/Mission-02/assets/offer/renton.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/Mission-02/assets/sprites/rating-stars.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/Mission-02/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/Mission-02/stylesheets/common/a11y.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/Mission-02/stylesheets/common/easings.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/Mission-02/stylesheets/init/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/Mission-02/stylesheets/init/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/Mission-02/stylesheets/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/Mission-02/stylesheets/pages/offer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/Mission-02/stylesheets/theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/Offer.fig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/__MACOSX/Mission-02/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/__MACOSX/Mission-02/assets/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/__MACOSX/Mission-02/assets/favicon/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/__MACOSX/Mission-02/assets/favicon/._favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/__MACOSX/Mission-02/assets/favicon/._favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/__MACOSX/Mission-02/assets/icon/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/__MACOSX/Mission-02/assets/icon/._badge-rocket.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/__MACOSX/Mission-02/assets/icon/._shopping.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/__MACOSX/Mission-02/assets/logo/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/__MACOSX/Mission-02/assets/logo/._logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/__MACOSX/Mission-02/assets/logo/._logo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/__MACOSX/Mission-02/assets/logo/._logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/__MACOSX/Mission-02/assets/offer/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/__MACOSX/Mission-02/assets/offer/._boohgle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/__MACOSX/Mission-02/assets/offer/._deskset.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/__MACOSX/Mission-02/assets/offer/._drying-rack.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/__MACOSX/Mission-02/assets/offer/._furniture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/__MACOSX/Mission-02/assets/offer/._renton.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/__MACOSX/Mission-02/assets/sprites/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/__MACOSX/Mission-02/assets/sprites/._rating-stars.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/__MACOSX/Mission-02/stylesheets/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/__MACOSX/Mission-02/stylesheets/common/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-02/__MACOSX/Mission-02/stylesheets/pages/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/CategoryBest.fig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/assets/category/houseware/houseware-basket.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/assets/category/houseware/houseware-cleaningcloth.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/assets/category/houseware/houseware-dryingrack.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/assets/category/houseware/houseware-hairoil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/assets/category/houseware/houseware-mask.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/assets/category/houseware/houseware-massagestick.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/assets/category/kitchenware/kitchenware-airfryer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/assets/category/kitchenware/kitchenware-illycoffee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/assets/category/kitchenware/kitchenware-kitchentowel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/assets/category/kitchenware/kitchenware-paperfoil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/assets/category/kitchenware/kitchenware-paperspoon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/assets/category/kitchenware/kitchenware-zipperbag.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/assets/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/assets/favicon/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/assets/icon/angle-right-default.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/assets/icon/badge-rocket.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/assets/logo/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/assets/logo/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/assets/logo/logo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/assets/logo/logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/assets/slides/houseware-dandruff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/assets/slides/houseware-downy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/assets/slides/kitchenware-lunchbox.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/assets/slides/kitchenware-tumbler.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/stylesheets/common/a11y.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/stylesheets/common/easings.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/stylesheets/init/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/stylesheets/init/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/stylesheets/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/stylesheets/pages/category.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/Mission-03/stylesheets/theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/category/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/category/houseware/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/category/houseware/._houseware-basket.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/category/houseware/._houseware-cleaningcloth.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/category/houseware/._houseware-dryingrack.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/category/houseware/._houseware-hairoil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/category/houseware/._houseware-mask.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/category/houseware/._houseware-massagestick.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/category/kitchenware/._kitchenware-airfryer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/category/kitchenware/._kitchenware-illycoffee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/category/kitchenware/._kitchenware-kitchentowel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/category/kitchenware/._kitchenware-paperfoil.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/category/kitchenware/._kitchenware-paperspoon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/category/kitchenware/._kitchenware-zipperbag.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/favicon/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/favicon/._favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/favicon/._favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/icon/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/icon/._angle-right-default.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/icon/._badge-rocket.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/logo/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/logo/._logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/logo/._logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/logo/._logo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/logo/._logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/slides/._houseware-dandruff.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/slides/._houseware-downy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/slides/._kitchenware-lunchbox.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/assets/slides/._kitchenware-tumbler.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-03/__MACOSX/Mission-03/stylesheets/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/Header.fig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/Mission-04/assets/cart/bvlgari-perfume.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/Mission-04/assets/cart/macbookpro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/Mission-04/assets/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/Mission-04/assets/favicon/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/Mission-04/assets/icon/cart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/Mission-04/assets/icon/hamburger.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/Mission-04/assets/icon/icon-fresh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/Mission-04/assets/icon/icon-rocket.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/Mission-04/assets/icon/mic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/Mission-04/assets/icon/my-coupang.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/Mission-04/assets/icon/new.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/Mission-04/assets/icon/search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/Mission-04/assets/logo/logo-mono.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/Mission-04/assets/logo/logo-mono.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/Mission-04/assets/logo/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/Mission-04/assets/logo/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/Mission-04/assets/logo/logo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/Mission-04/assets/logo/logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/Mission-04/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/Mission-04/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/Mission-04/stylesheets/common/a11y.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/Mission-04/stylesheets/common/easings.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/Mission-04/stylesheets/init/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/Mission-04/stylesheets/init/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/Mission-04/stylesheets/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/Mission-04/stylesheets/pages/header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/Mission-04/stylesheets/theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/__MACOSX/Mission-04/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/__MACOSX/Mission-04/assets/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/__MACOSX/Mission-04/assets/cart/._bvlgari-perfume.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/__MACOSX/Mission-04/assets/cart/._macbookpro.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/__MACOSX/Mission-04/assets/favicon/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/__MACOSX/Mission-04/assets/favicon/._favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/__MACOSX/Mission-04/assets/favicon/._favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/__MACOSX/Mission-04/assets/icon/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/__MACOSX/Mission-04/assets/icon/._cart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/__MACOSX/Mission-04/assets/icon/._hamburger.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/__MACOSX/Mission-04/assets/icon/._icon-fresh.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/__MACOSX/Mission-04/assets/icon/._icon-rocket.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/__MACOSX/Mission-04/assets/icon/._mic.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/__MACOSX/Mission-04/assets/icon/._my-coupang.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/__MACOSX/Mission-04/assets/icon/._new.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/__MACOSX/Mission-04/assets/icon/._search.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/__MACOSX/Mission-04/assets/logo/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/__MACOSX/Mission-04/assets/logo/._logo-mono.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/__MACOSX/Mission-04/assets/logo/._logo-mono.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/__MACOSX/Mission-04/assets/logo/._logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/__MACOSX/Mission-04/assets/logo/._logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/__MACOSX/Mission-04/assets/logo/._logo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/__MACOSX/Mission-04/assets/logo/._logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-04/__MACOSX/Mission-04/stylesheets/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/favicon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/favicon/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/icon/5a9511d5243a7dbd30b3bc0115a9ff0f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/icon/hamburger.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/icon/more-down-default.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/icon/more-right-active.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/icon/new.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/icon/sns-facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/icon/sns-instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/icon/sns-naver-blog.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/appliances.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/baby.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/beauty.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/book.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/car.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/clothes.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/foods.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/houseware.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/interior.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/kitchenware.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/pet.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/sports.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/stationery.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/theme.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/toy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/travel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/새 폴더/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/새 폴더/fontello-9594015b.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/새 폴더/fontello-9594015b/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/새 폴더/fontello-9594015b/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/새 폴더/fontello-9594015b/css/animation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/새 폴더/fontello-9594015b/css/fontello-codes.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/새 폴더/fontello-9594015b/css/fontello-embedded.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/새 폴더/fontello-9594015b/css/fontello-ie7-codes.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/새 폴더/fontello-9594015b/css/fontello-ie7.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/새 폴더/fontello-9594015b/css/fontello.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/새 폴더/fontello-9594015b/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/새 폴더/fontello-9594015b/font/fontello.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/새 폴더/fontello-9594015b/font/fontello.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/새 폴더/fontello-9594015b/font/fontello.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/새 폴더/fontello-9594015b/font/fontello.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/iconfont/새 폴더/fontello-9594015b/font/fontello.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/logo/logo-mono.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/logo/logo-mono.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/logo/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/logo/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/logo/logo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/assets/logo/logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/fontello.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/fontello.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/js/Menubar/MenuItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/js/Menubar/Menubar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/js/Menubar/MenubarItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/js/Menubar/PopupMenu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/js/navigation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/js/utils/isPrintableCharacter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/js/utils/keycode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/js/utils/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/js/utils/uuid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/stylesheets/common/a11y.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/stylesheets/common/easings.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/stylesheets/init/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/stylesheets/init/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/stylesheets/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/stylesheets/pages/iconfont.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/stylesheets/pages/template.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Mission-05/stylesheets/theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/Navigation_Footer.fig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/._js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/favicon/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/favicon/._favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/favicon/._favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/icon/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/icon/._hamburger.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/icon/._more-down-default.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/icon/._more-right-active.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/icon/._new.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/icon/._sns-facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/icon/._sns-instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/icon/._sns-naver-blog.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/iconfont/._appliances.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/iconfont/._baby.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/iconfont/._beauty.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/iconfont/._book.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/iconfont/._car.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/iconfont/._clothes.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/iconfont/._foods.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/iconfont/._houseware.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/iconfont/._interior.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/iconfont/._kitchenware.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/iconfont/._pet.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/iconfont/._sports.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/iconfont/._stationery.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/iconfont/._theme.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/iconfont/._toy.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/iconfont/._travel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/logo/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/logo/._logo-mono.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/logo/._logo-mono.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/logo/._logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/logo/._logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/logo/._logo.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/assets/logo/._logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/js/._Menubar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/js/._main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/js/._navigation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/js/._utils" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/js/Menubar/._MenuItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/js/Menubar/._Menubar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/js/Menubar/._MenubarItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/js/Menubar/._PopupMenu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/js/utils/._isPrintableCharacter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/js/utils/._keycode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/js/utils/._utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/js/utils/._uuid.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/Mission-05/__MACOSX/Mission-05/stylesheets/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/mission/전도명_HTMLCSS 프로젝트 과제_final_240721.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/programming/개발 용어 사전.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/react/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Form-Tag/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Form-Tag/result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Insta-Feed-Layout/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Insta-Feed-Layout/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Go-Page/assets/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Go-Page/assets/scss/abstracts/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Go-Page/assets/scss/abstracts/_variables_color.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Go-Page/assets/scss/base/_preset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Go-Page/assets/scss/base/_reset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Go-Page/assets/scss/components/_order_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Go-Page/assets/scss/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Go-Page/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/7-docs-detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/images/ico-arrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/images/ico-back.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/images/ico-bg-option-page.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/images/ico-cart-fill-green.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/images/ico-cart-fill.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/images/ico-cart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/images/ico-check.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/images/ico-clock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/images/ico-close.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/images/ico-content-top-pattern.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/images/ico-new.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/images/ico-period.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/images/ico-star-group-fill.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/images/ico-star-group.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/images/ico-star.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/scss/abstracts/_mixin_common.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/scss/abstracts/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/scss/abstracts/_variables_color.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/scss/base/_preset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/scss/base/_reset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/scss/components/_amount_select.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/scss/components/_header_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/scss/components/_menu_item.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/scss/components/detail/_menu_detail_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/scss/components/detail/_menu_review_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/scss/components/detail/_option_popup_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/scss/components/menu/_go_to_top.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/scss/components/menu/_menu_category_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/scss/components/menu/_menu_list_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/scss/components/menu/_order_box_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/scss/components/menu/_order_info_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/scss/components/menu/_order_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/scss/components/menu/_recent_order_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/scss/pages/_order_page.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/assets/scss/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Detail-Page/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/images/ico-arrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/images/ico-back.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/images/ico-bg-option-page.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/images/ico-cart-fill-green.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/images/ico-cart-fill.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/images/ico-cart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/images/ico-check.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/images/ico-clock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/images/ico-close.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/images/ico-new.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/images/ico-period.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/images/ico-star-group-fill.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/images/ico-star-group.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/images/ico-star.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/scss/abstracts/_mixin_common.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/scss/abstracts/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/scss/abstracts/_variables_color.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/scss/base/_preset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/scss/base/_reset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/scss/components/_go_to_top.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/scss/components/_header_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/scss/components/_menu_category_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/scss/components/_menu_item.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/scss/components/_menu_list_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/scss/components/_order_box_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/scss/components/_order_info_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/scss/components/_order_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/scss/components/_recent_order_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/scss/pages/_order_page.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/assets/scss/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Menu-Page/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/8-docs-detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/images/bg-pattern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/images/ico-arrow-gray.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/images/ico-arrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/images/ico-back.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/images/ico-cart-fill-green.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/images/ico-cart-fill.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/images/ico-cart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/images/ico-check.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/images/ico-clock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/images/ico-close-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/images/ico-close.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/images/ico-content-top-pattern.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/images/ico-dish.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/images/ico-exclaim.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/images/ico-n-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/images/ico-new.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/images/ico-pattern.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/images/ico-period.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/images/ico-star-group-fill.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/images/ico-star-group.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/images/ico-star.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/images/ico-takeout.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/scss/abstracts/_mixin_common.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/scss/abstracts/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/scss/abstracts/_variables_color.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/scss/base/_preset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/scss/base/_reset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/scss/components/_amount_select.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/scss/components/_go_to_top.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/scss/components/_header_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/scss/components/_menu_item.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/scss/components/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/scss/components/detail/_menu_detail_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/scss/components/detail/_menu_review_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/scss/components/detail/_option_popup_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/scss/components/menu/_menu_category_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/scss/components/menu/_menu_list_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/scss/components/menu/_order_box_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/scss/components/menu/_order_info_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/scss/components/menu/_order_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/scss/components/menu/_recent_order_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/scss/components/order/_order_content.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/scss/components/order/_order_content_extra.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/scss/components/order/_order_form_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/scss/pages/_common.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/assets/scss/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/order.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Order-Page/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/9-docs-detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/images/bg-pattern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/images/ico-arrow-gray.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/images/ico-arrow.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/images/ico-back.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/images/ico-cart-fill-green.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/images/ico-cart-fill.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/images/ico-cart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/images/ico-check.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/images/ico-clock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/images/ico-close-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/images/ico-close.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/images/ico-content-top-pattern.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/images/ico-dish.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/images/ico-exclaim.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/images/ico-n-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/images/ico-new.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/images/ico-pattern.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/images/ico-period.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/images/ico-star-group-fill.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/images/ico-star-group.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/images/ico-star.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/images/ico-takeout.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/scss/abstracts/_mixin_common.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/scss/abstracts/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/scss/abstracts/_variables_color.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/scss/base/_preset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/scss/base/_reset.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/scss/components/_amount_select.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/scss/components/_go_to_top.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/scss/components/_header_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/scss/components/_menu_item.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/scss/components/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/scss/components/detail/_menu_detail_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/scss/components/detail/_menu_review_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/scss/components/detail/_option_popup_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/scss/components/menu/_menu_category_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/scss/components/menu/_menu_list_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/scss/components/menu/_order_box_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/scss/components/menu/_order_info_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/scss/components/menu/_order_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/scss/components/menu/_recent_order_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/scss/components/order/_order_content.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/scss/components/order/_order_content_extra.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/scss/components/order/_order_form_area.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/scss/pages/_common.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/assets/scss/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/Naver-Page/Supplement-Study/order.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/training/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/ts/1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/1_강의개요/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/2_HTML_Basic/01_basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/2_HTML_Basic/02_block_inline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/2_HTML_Basic/cat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/3_HTML_Tags/01_heading_paragraph.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/3_HTML_Tags/02_image_anchor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/3_HTML_Tags/03_list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/3_HTML_Tags/04_table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/3_HTML_Tags/05_div_span.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/3_HTML_Tags/cat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/3_HTML_Tags/images/cat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/3_HTML_Tags/images/dog.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/4_HTML_Form/01_form_input_basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/4_HTML_Form/02_label.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/4_HTML_Form/03_selections.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/5_CSS_Basic/01_basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/5_CSS_Basic/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/6_CSS_Properties/01_color.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/6_CSS_Properties/02_background.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/6_CSS_Properties/03_fonts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/6_CSS_Properties/04_box_model.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/6_CSS_Properties/styles/style1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/6_CSS_Properties/styles/style2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/6_CSS_Properties/styles/style3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/6_CSS_Properties/styles/style4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/7_CSS_Selector/01_basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/7_CSS_Selector/02_attribute_selector.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/7_CSS_Selector/03_combinator.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/7_CSS_Selector/04_pseudo_class.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/7_CSS_Selector/05_pseudo_element.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/7_CSS_Selector/styles/style1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/7_CSS_Selector/styles/style2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/7_CSS_Selector/styles/style3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/7_CSS_Selector/styles/style4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/7_CSS_Selector/styles/style5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/8_CSS_Layout/01_display_float.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/8_CSS_Layout/02_position.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/8_CSS_Layout/03_z_index_overflow.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/8_CSS_Layout/styles/style1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/8_CSS_Layout/styles/style2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/Front-End/zerobasefe/8_CSS_Layout/styles/style3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/backend/mission/mission/CalendarProgram.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/backend/mission/mission/CashbackCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/backend/mission/mission/EntranceFeeCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/backend/mission/mission/KoreanResidentialNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/backend/mission/mission/Lotto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/backend/mission/mission/MultiplicationTable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/backend/mission/mission/PresidentVote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/backend/mission/mission/SimpleCalendar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/backend/mission/mission/Tax.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,19 +647,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CalendarProgram (1).executor": "Run",
+    "Application.CalendarProgram.executor": "Run",
+    "Application.CashbackCalculator.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Main3.executor": "Run",
+    "Application.MultiplicationTable.executor": "Run",
     "Application.Plusnumber.executor": "Run",
     "Application.Practice4.executor": "Run",
     "Application.Tax.executor": "Run",
+    "Application.study.backend.mission.CalendarProgram.executor": "Run",
     "Application.다차원배열.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "com.codeium.enabled": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/user/Desktop/study/Honey-Storage/study/javapractices/yswjava",
-    "settings.editor.selected.configurable": "Errors"
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -76,73 +686,30 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Tax">
-    <configuration name="다차원배열" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.javapractices.다차원배열" />
-      <module name="Honey-Storage" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.javapractices.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.backend.javapractice.solution.lineards06.src.Main" />
-      <module name="Honey-Storage" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.backend.javapractice.solution.lineards06.src.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main3" />
+  <component name="RunManager" selected="Application.CashbackCalculator">
+    <configuration name="CalendarProgram1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="CalendarProgram" />
       <module name="Honey-Storage" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Plusnumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.backend.practicecodingtest.Plusnumber" />
+    <configuration name="CashbackCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="INCLUDE_PROVIDED_SCOPE" value="true" />
+      <option name="MAIN_CLASS_NAME" value="CashbackCalculator" />
       <module name="Honey-Storage" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.backend.practicecodingtest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="study.backend.mission.mission.Tax" />
-      <module name="Honey-Storage" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="study.backend.mission.mission.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.CalendarProgram1" />
+      <item itemvalue="Application.CashbackCalculator" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Tax" />
-        <item itemvalue="Application.Plusnumber" />
-        <item itemvalue="Application.다차원배열" />
-        <item itemvalue="Application.Main3" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.CashbackCalculator" />
+        <item itemvalue="Application.CalendarProgram1" />
       </list>
     </recent_temporary>
   </component>
@@ -176,6 +743,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="good" />
+    <MESSAGE value="202410210418" />
     <MESSAGE value="20241021" />
     <option name="LAST_COMMIT_MESSAGE" value="20241021" />
   </component>
