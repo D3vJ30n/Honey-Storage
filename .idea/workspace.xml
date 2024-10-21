@@ -44,32 +44,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CalendarProgram (1).executor": "Run",
-    "Application.CalendarProgram.executor": "Run",
-    "Application.CashbackCalculator.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Main3.executor": "Run",
-    "Application.MultiplicationTable.executor": "Run",
-    "Application.Plusnumber.executor": "Run",
-    "Application.Practice4.executor": "Run",
-    "Application.Tax.executor": "Run",
-    "Application.study.backend.mission.CalendarProgram.executor": "Run",
-    "Application.다차원배열.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "com.codeium.enabled": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/finalclone",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CalendarProgram (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalendarProgram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CashbackCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Plusnumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tax.executor&quot;: &quot;Run&quot;,
+    &quot;Application.study.backend.mission.CalendarProgram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.다차원배열.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/finalclone&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\Desktop\study\Honey-Storage\study\javapractices\yswjava" />
@@ -137,12 +137,21 @@
       <option name="project" value="LOCAL" />
       <updated>1729492127460</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="20241021">
+      <option name="closed" value="true" />
+      <created>1729502618573</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729502618573</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="good" />
     <MESSAGE value="202410210418" />
+    <MESSAGE value="202410210559" />
     <MESSAGE value="20241021" />
     <option name="LAST_COMMIT_MESSAGE" value="20241021" />
   </component>
