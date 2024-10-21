@@ -1,3 +1,5 @@
+package study.backend.mission.mission;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;

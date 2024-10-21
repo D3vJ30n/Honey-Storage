@@ -1,3 +1,5 @@
+package study.backend.mission.mission;
+
 import java.util.Scanner;  // 사용자 입력을 받기 위한 Scanner 클래스 import
 
 public class EntranceFeeCalculator {

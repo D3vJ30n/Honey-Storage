@@ -1,3 +1,5 @@
+package study.backend.mission.mission;
+
 import java.util.Scanner;
 
 public class CashbackCalculator {

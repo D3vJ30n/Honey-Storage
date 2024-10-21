@@ -1,3 +1,5 @@
+package study.backend.mission.mission;
+
 import java.time.LocalDate;
 import java.util.Scanner;
 

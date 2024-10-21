@@ -1,3 +1,5 @@
+package study.backend.mission.mission;
+
 import java.time.LocalDate; // 날짜 처리를 위한 Java 8 이후의 날짜/시간 API
 import java.time.YearMonth; // 년도와 월을 함께 다루기 위한 클래스
 import java.util.Scanner; // 사용자 입력을 받기 위한 클래스

@@ -1,4 +1,4 @@
-// java.util 패키지에서 Scanner 클래스를 가져옴. 사용자 입력을 받기 위해 필요
+package study.backend.mission.mission;// java.util 패키지에서 Scanner 클래스를 가져옴. 사용자 입력을 받기 위해 필요
 import java.util.Scanner;
 
 // Tax라는 이름의 public 클래스 선언. 파일명도 Tax.java여야 함

@@ -1,4 +1,4 @@
-// java.util 패키지에서 필요한 클래스들을 가져옴. import 문은 다른 패키지의 클래스를 현재 파일에서 사용할 수 있게 해줌
+package study.backend.mission.mission;// java.util 패키지에서 필요한 클래스들을 가져옴. import 문은 다른 패키지의 클래스를 현재 파일에서 사용할 수 있게 해줌
 import java.util.Random;  // Random 클래스: 난수 생성을 위해 사용됨
 import java.util.Scanner;  // Scanner 클래스: 사용자 입력을 받기 위해 사용됨
 import java.util.Arrays;  // Arrays 클래스: 배열 조작을 위한 유틸리티 메서드들을 제공함
