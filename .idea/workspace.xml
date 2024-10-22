@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bff5d640-f3fb-451b-896f-26508fa219bb" name="Changes" comment="202410211949">
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/algorithm/Hashtable1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/algorithm/Hashtable2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/algorithm/Hashtable3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/algorithm/Hashtable4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/algorithm/Hashtable5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/algorithm/Hashtable6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/algorithm/practicehashtable/PracticeHashtable1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/algorithm/practicehashtable/PracticeHashtable3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/algorithm/practicehashtable/PractiveHashtable2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/Arr1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/GgulTip.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/Math1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/Numbercount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/Stack1.java" afterDir="false" />
+    <list default="true" id="bff5d640-f3fb-451b-896f-26508fa219bb" name="Changes" comment="202410221817">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Honey-Storage/production/finalclone/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Honey-Storage/production/finalclone/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/study/backend/studying/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/backend/studying/src/Main.java" afterDir="false" />
@@ -75,6 +61,7 @@
     "Application.Numbercount.executor": "Debug",
     "Application.Plusnumber.executor": "Run",
     "Application.Practice4.executor": "Run",
+    "Application.PracticeHashtable1.executor": "Debug",
     "Application.Practicemission01.executor": "Run",
     "Application.Practicemission1 (1).executor": "Run",
     "Application.Practicemission1.executor": "Run",
@@ -93,7 +80,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.editor"
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -273,7 +260,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729507773678</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="202410221817">
+      <option name="closed" value="true" />
+      <created>1729588674926</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729588674926</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -284,6 +279,7 @@
     <MESSAGE value="202410211830" />
     <MESSAGE value="202410211831" />
     <MESSAGE value="202410211949" />
-    <option name="LAST_COMMIT_MESSAGE" value="202410211949" />
+    <MESSAGE value="202410221817" />
+    <option name="LAST_COMMIT_MESSAGE" value="202410221817" />
   </component>
 </project>
