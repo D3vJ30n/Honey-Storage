@@ -2,29 +2,20 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+        // 문자열 입력받기
         Scanner sc = new Scanner(System.in);
-        int N = sc.nextInt();
+        String str = sc.next().toUpperCase();
+        char targetChar = sc.next().toUpperCase().charAt(0);
 
-        int[] arr = new int[N];
+        // 문자의 개수를 저장할 변수
+        int count = 0;
 
-        for(int i = 0; i < N; i++) {
-            arr[i] = sc.nextInt();
-        }
-
-        int min = arr[0];
-        int max = arr[0];
-
-        for(int i = 1; i < N; i++) {
-            if(arr[i] < min) {
-                min = arr[i];
-
-            } if(arr[i] > max) {
-                max = arr[i];
-
-                System.out.println(min + " " + max);
+        // 문자열을 순회하며 targetChar의 개수를 셈
+        for (int i = 0; i < str.length(); i++) {
+            if (str.charAt(i) == targetChar) {
+                count++;
             }
         }
-
+        System.out.println(targetChar + count);
     }
 }
-

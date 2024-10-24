@@ -4,10 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bff5d640-f3fb-451b-896f-26508fa219bb" name="Changes" comment="202410221817">
+    <list default="true" id="bff5d640-f3fb-451b-896f-26508fa219bb" name="Changes" comment="202410222333">
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/inflearnct/ct01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/inflearnct/ct02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct1_2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_2_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Honey-Storage/production/finalclone/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Honey-Storage/production/finalclone/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Honey-Storage/production/finalclone/practicecodingtest/GgulTip.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Honey-Storage/production/finalclone/practicecodingtest/GgulTip.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/study/backend/studying/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/backend/studying/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/GgulTip.md" beforeDir="false" afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/GgulTip.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +74,8 @@
     "Application.Practicemission1.executor": "Run",
     "Application.Tax.executor": "Run",
     "Application.calender1.executor": "Run",
+    "Application.ct01.executor": "Run",
+    "Application.ct02.executor": "Run",
     "Application.study.backend.mission.CalendarProgram.executor": "Run",
     "Application.zerobasemission.Practicemission1.executor": "Run",
     "Application.다차원배열.executor": "Run",
@@ -80,7 +89,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -101,33 +110,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PracticeHashtable1">
-    <configuration name="Calender1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zbmissions.Calender1" />
-      <module name="finalclone" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="zbmissions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Hashtable5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.Hashtable5" />
-      <module name="finalclone" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ct02">
     <configuration name="Numbercount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="practicecodingtest.Numbercount" />
       <module name="finalclone" />
@@ -169,21 +152,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ct01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practicecodingtest.inflearnct.ct01" />
+      <module name="finalclone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practicecodingtest.inflearnct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ct02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practicecodingtest.inflearnct.ct02" />
+      <module name="finalclone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practicecodingtest.inflearnct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Practicemission1" />
-      <item itemvalue="Application.Hashtable5" />
+      <item itemvalue="Application.ct01" />
+      <item itemvalue="Application.ct02" />
       <item itemvalue="Application.Numbercount" />
       <item itemvalue="Application.PracticeHashtable1" />
-      <item itemvalue="Application.Calender1" />
       <item itemvalue="Application.calender1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PracticeHashtable1" />
-        <item itemvalue="Application.Hashtable5" />
-        <item itemvalue="Application.Numbercount" />
-        <item itemvalue="Application.Calender1" />
+        <item itemvalue="Application.ct02" />
+        <item itemvalue="Application.ct01" />
         <item itemvalue="Application.calender1" />
+        <item itemvalue="Application.PracticeHashtable1" />
+        <item itemvalue="Application.Numbercount" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +277,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729588674926</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="202410222333">
+      <option name="closed" value="true" />
+      <created>1729607634844</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729607634844</updated>
+    </task>
+    <task id="LOCAL-00011" summary="202410222333">
+      <option name="closed" value="true" />
+      <created>1729607654287</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1729607654287</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -280,6 +305,7 @@
     <MESSAGE value="202410211831" />
     <MESSAGE value="202410211949" />
     <MESSAGE value="202410221817" />
-    <option name="LAST_COMMIT_MESSAGE" value="202410221817" />
+    <MESSAGE value="202410222333" />
+    <option name="LAST_COMMIT_MESSAGE" value="202410222333" />
   </component>
 </project>
