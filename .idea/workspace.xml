@@ -4,17 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bff5d640-f3fb-451b-896f-26508fa219bb" name="Changes" comment="202410222333">
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/inflearnct/ct01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/inflearnct/ct02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct1_2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_2_3.java" afterDir="false" />
+    <list default="true" id="bff5d640-f3fb-451b-896f-26508fa219bb" name="Changes" comment="202410242333">
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/algorithm/streamapi/streamapiex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_2_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_2_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_3_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_3_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_3_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_4_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_4_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_4_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_4_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_4_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_5_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_5_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_5_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Honey-Storage/production/finalclone/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Honey-Storage/production/finalclone/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Honey-Storage/production/finalclone/practicecodingtest/GgulTip.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Honey-Storage/production/finalclone/practicecodingtest/GgulTip.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Honey-Storage/production/finalclone/Main.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/study/backend/studying/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/backend/studying/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/GgulTip.md" beforeDir="false" afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/GgulTip.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +86,7 @@
     "Application.calender1.executor": "Run",
     "Application.ct01.executor": "Run",
     "Application.ct02.executor": "Run",
+    "Application.streamapiex.executor": "Run",
     "Application.study.backend.mission.CalendarProgram.executor": "Run",
     "Application.zerobasemission.Practicemission1.executor": "Run",
     "Application.다차원배열.executor": "Run",
@@ -110,20 +121,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ct02">
-    <configuration name="Numbercount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practicecodingtest.Numbercount" />
-      <module name="finalclone" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practicecodingtest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.streamapiex">
     <configuration name="PracticeHashtable1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithm.practicehashtable.PracticeHashtable1" />
       <module name="finalclone" />
@@ -178,21 +176,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="streamapiex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithm.streamapi.streamapiex" />
+      <module name="finalclone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithm.streamapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Practicemission1" />
       <item itemvalue="Application.ct01" />
       <item itemvalue="Application.ct02" />
-      <item itemvalue="Application.Numbercount" />
+      <item itemvalue="Application.streamapiex" />
       <item itemvalue="Application.PracticeHashtable1" />
       <item itemvalue="Application.calender1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.streamapiex" />
         <item itemvalue="Application.ct02" />
         <item itemvalue="Application.ct01" />
         <item itemvalue="Application.calender1" />
         <item itemvalue="Application.PracticeHashtable1" />
-        <item itemvalue="Application.Numbercount" />
       </list>
     </recent_temporary>
   </component>
@@ -293,7 +304,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729607654287</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="202410222333">
+      <option name="closed" value="true" />
+      <created>1729762113316</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1729762113316</updated>
+    </task>
+    <task id="LOCAL-00013" summary="202410242333">
+      <option name="closed" value="true" />
+      <created>1729762127848</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1729762127848</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -306,6 +333,7 @@
     <MESSAGE value="202410211949" />
     <MESSAGE value="202410221817" />
     <MESSAGE value="202410222333" />
-    <option name="LAST_COMMIT_MESSAGE" value="202410222333" />
+    <MESSAGE value="202410242333" />
+    <option name="LAST_COMMIT_MESSAGE" value="202410242333" />
   </component>
 </project>

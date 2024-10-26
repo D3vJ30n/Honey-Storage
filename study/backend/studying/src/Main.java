@@ -1,21 +1,29 @@
-import java.util.Scanner;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.StringReader;
 
-public class Main {
-    public static void main(String[] args) {
-        // 문자열 입력받기
-        Scanner sc = new Scanner(System.in);
-        String str = sc.next().toUpperCase();
-        char targetChar = sc.next().toUpperCase().charAt(0);
+class Main {
+    public static String main(String s) throws IOException {
+        String currentResult = s;
+        String previousResult;
 
-        // 문자의 개수를 저장할 변수
-        int count = 0;
+        // previousResult와 currentResult가 다를 때까지 반복
+        do {
+            previousResult = currentResult;
+            BufferedReader br = new BufferedReader(new StringReader(currentResult));
+            StringBuilder result = new StringBuilder();
 
-        // 문자열을 순회하며 targetChar의 개수를 셈
-        for (int i = 0; i < str.length(); i++) {
-            if (str.charAt(i) == targetChar) {
-                count++;
+            int value;
+            for (value = br.read(); value != -1; value = br.read()) {
+                char currentChar = (char) value;
+                if (result.indexOf(String.valueOf(currentChar)) == -1) {
+                    result.append(currentChar);
+                }
             }
-        }
-        System.out.println(targetChar + count);
+            currentResult = result.toString();
+
+        } while (!previousResult.equals(currentResult));
+
+        return currentResult;
     }
 }
