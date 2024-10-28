@@ -5,26 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bff5d640-f3fb-451b-896f-26508fa219bb" name="Changes" comment="202410242333">
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/algorithm/streamapi/streamapiex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_2_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_2_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_3_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_3_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_3_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_3_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_4_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_4_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_4_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_4_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_4_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_5_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_5_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_5_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_5_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_5_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_hint_2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_hint_2_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Honey-Storage/production/finalclone/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/backend/studying/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/backend/studying/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct1_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_5_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_5_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_5_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_5_4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -320,7 +308,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729762127848</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="202410242333">
+      <option name="closed" value="true" />
+      <created>1729923545025</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1729923545025</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
