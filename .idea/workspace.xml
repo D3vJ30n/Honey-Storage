@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bff5d640-f3fb-451b-896f-26508fa219bb" name="Changes" comment="202410242333">
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_5_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_5_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_hint_2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_hint_2_2.java" afterDir="false" />
+    <list default="true" id="bff5d640-f3fb-451b-896f-26508fa219bb" name="Changes" comment="202410291732">
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/BuildPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/TakeTheSand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/stock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct1_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_5_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_5_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_5_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_5_4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +72,7 @@
     "Application.ct02.executor": "Run",
     "Application.streamapiex.executor": "Run",
     "Application.study.backend.mission.CalendarProgram.executor": "Run",
+    "Application.zbct_hint_2_3.executor": "Run",
     "Application.zerobasemission.Practicemission1.executor": "Run",
     "Application.다차원배열.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -99,30 +96,17 @@
       <recent name="C:\Users\user\Desktop\study\Honey-Storage\study\backend" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\finalclone\study\backend\studying\src\practicecodingtest\zbct" />
       <recent name="C:\finalclone\study\backend\studying\src\algorithm\practicehashtable" />
       <recent name="C:\finalclone\study\backend\studying\src\algorithm" />
       <recent name="C:\finalclone\study\backend" />
       <recent name="C:\finalclone\test" />
-      <recent name="C:\Users\user\Desktop\study\Honey-Storage\study\javapractices" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.streamapiex">
-    <configuration name="PracticeHashtable1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.practicehashtable.PracticeHashtable1" />
-      <module name="finalclone" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm.practicehashtable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.zbct_hint_2_3">
     <configuration name="Practicemission1" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="finalclone" />
@@ -177,21 +161,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="zbct_hint_2_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practicecodingtest.zbct.zbct_hint_2_3" />
+      <module name="finalclone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practicecodingtest.zbct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Practicemission1" />
+      <item itemvalue="Application.zbct_hint_2_3" />
       <item itemvalue="Application.ct01" />
       <item itemvalue="Application.ct02" />
       <item itemvalue="Application.streamapiex" />
-      <item itemvalue="Application.PracticeHashtable1" />
       <item itemvalue="Application.calender1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zbct_hint_2_3" />
         <item itemvalue="Application.streamapiex" />
         <item itemvalue="Application.ct02" />
         <item itemvalue="Application.ct01" />
         <item itemvalue="Application.calender1" />
-        <item itemvalue="Application.PracticeHashtable1" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +313,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729923545025</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="202410281510">
+      <option name="closed" value="true" />
+      <created>1730095820436</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1730095820436</updated>
+    </task>
+    <task id="LOCAL-00016" summary="202410291732">
+      <option name="closed" value="true" />
+      <created>1730190773667</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1730190773667</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -330,6 +343,8 @@
     <MESSAGE value="202410221817" />
     <MESSAGE value="202410222333" />
     <MESSAGE value="202410242333" />
-    <option name="LAST_COMMIT_MESSAGE" value="202410242333" />
+    <MESSAGE value="202410281510" />
+    <MESSAGE value="202410291732" />
+    <option name="LAST_COMMIT_MESSAGE" value="202410291732" />
   </component>
 </project>
