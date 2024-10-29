@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bff5d640-f3fb-451b-896f-26508fa219bb" name="Changes" comment="202410291753" />
+    <list default="true" id="bff5d640-f3fb-451b-896f-26508fa219bb" name="Changes" comment="202410291754" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,45 +44,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CalendarProgram (1).executor": "Run",
-    "Application.CalendarProgram.executor": "Run",
-    "Application.Calender1.executor": "Run",
-    "Application.CashbackCalculator.executor": "Run",
-    "Application.Hashtable5.executor": "Debug",
-    "Application.Main.executor": "Run",
-    "Application.Main3.executor": "Run",
-    "Application.MultiplicationTable.executor": "Run",
-    "Application.Numbercount.executor": "Debug",
-    "Application.Plusnumber.executor": "Run",
-    "Application.Practice4.executor": "Run",
-    "Application.PracticeHashtable1.executor": "Debug",
-    "Application.Practicemission01.executor": "Run",
-    "Application.Practicemission1 (1).executor": "Run",
-    "Application.Practicemission1.executor": "Run",
-    "Application.Tax.executor": "Run",
-    "Application.calender1.executor": "Run",
-    "Application.ct01.executor": "Run",
-    "Application.ct02.executor": "Run",
-    "Application.streamapiex.executor": "Run",
-    "Application.study.backend.mission.CalendarProgram.executor": "Run",
-    "Application.zbct_hint_2_3.executor": "Run",
-    "Application.zerobasemission.Practicemission1.executor": "Run",
-    "Application.다차원배열.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "com.codeium.enabled": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/finalclone/study/backend/studying/src/algorithm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CalendarProgram (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalendarProgram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calender1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CashbackCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hashtable5.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Numbercount.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Plusnumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PracticeHashtable1.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Practicemission01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practicemission1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practicemission1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Tax.executor&quot;: &quot;Run&quot;,
+    &quot;Application.calender1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ct01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ct02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.streamapiex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.study.backend.mission.CalendarProgram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.zbct_hint_2_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.zerobasemission.Practicemission1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.다차원배열.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/finalclone/study/backend/studying/src/algorithm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\finalclone\study\backend\studying\src\algorithm" />
@@ -171,11 +171,11 @@
     </configuration>
     <list>
       <item itemvalue="Application.Practicemission1" />
-      <item itemvalue="Application.zbct_hint_2_3" />
+      <item itemvalue="Application.calender1" />
       <item itemvalue="Application.ct01" />
       <item itemvalue="Application.ct02" />
       <item itemvalue="Application.streamapiex" />
-      <item itemvalue="Application.calender1" />
+      <item itemvalue="Application.zbct_hint_2_3" />
     </list>
     <recent_temporary>
       <list>
@@ -340,7 +340,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730192107612</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="202410291754">
+      <option name="closed" value="true" />
+      <created>1730192276929</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1730192276929</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -357,6 +365,7 @@
     <MESSAGE value="202410281510" />
     <MESSAGE value="202410291732" />
     <MESSAGE value="202410291753" />
-    <option name="LAST_COMMIT_MESSAGE" value="202410291753" />
+    <MESSAGE value="202410291754" />
+    <option name="LAST_COMMIT_MESSAGE" value="202410291754" />
   </component>
 </project>
