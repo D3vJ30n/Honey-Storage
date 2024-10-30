@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bff5d640-f3fb-451b-896f-26508fa219bb" name="Changes" comment="202410291804">
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/buildpyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/jayeoner/naturallanguage.md" afterDir="false" />
+    <list default="true" id="bff5d640-f3fb-451b-896f-26508fa219bb" name="Changes" comment="202410291954">
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_7_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_7_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_7_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_7_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_7_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_5_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_5_3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -368,7 +372,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730192697793</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="202410291954">
+      <option name="closed" value="true" />
+      <created>1730199301044</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1730199301044</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -387,6 +399,7 @@
     <MESSAGE value="202410291753" />
     <MESSAGE value="202410291754" />
     <MESSAGE value="202410291804" />
-    <option name="LAST_COMMIT_MESSAGE" value="202410291804" />
+    <MESSAGE value="202410291954" />
+    <option name="LAST_COMMIT_MESSAGE" value="202410291954" />
   </component>
 </project>
