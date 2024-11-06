@@ -4,17 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bff5d640-f3fb-451b-896f-26508fa219bb" name="Changes" comment="202410302228">
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_8_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_8_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_8_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_8_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_8_5.java" afterDir="false" />
+    <list default="true" id="bff5d640-f3fb-451b-896f-26508fa219bb" name="Changes" comment="202411010110">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_10_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_10_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_10_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_10_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_10_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_9_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_9_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_9_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_9_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_9_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/zbmissions/NearestLocationFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/zbmissions/PointerValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/zbmissions/PracticePropertyHtml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/zbmissions/PropertyHtmlGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Honey-Storage/production/finalclone/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Honey-Storage/production/finalclone/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Honey-Storage/production/finalclone/practicecodingtest/zbct/zbct_5_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Honey-Storage/production/finalclone/practicecodingtest/zbct/zbct_5_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/backend/studying/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/backend/studying/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_3_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Honey-Storage/production/finalclone/practicecodingtest/zbct/buildpyramid.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Honey-Storage/production/finalclone/practicecodingtest/zbct/zbct_3_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Honey-Storage/production/finalclone/practicecodingtest/zbct/zbct_3_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Honey-Storage/production/finalclone/zbmissions/Calender1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/buildpyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_1_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/backend/studying/src/zbmissions/Calender1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,17 +72,21 @@
     "Application.CalendarProgram.executor": "Run",
     "Application.Calender1.executor": "Run",
     "Application.CashbackCalculator.executor": "Run",
+    "Application.GetMyJavaEnvironmentToHTML.executor": "Run",
     "Application.Hashtable5.executor": "Debug",
     "Application.Main.executor": "Run",
     "Application.Main3.executor": "Run",
     "Application.MultiplicationTable.executor": "Run",
+    "Application.NearestLocationFinder.executor": "Run",
     "Application.Numbercount.executor": "Debug",
     "Application.Plusnumber.executor": "Run",
+    "Application.PointerValue.executor": "Run",
     "Application.Practice4.executor": "Run",
     "Application.PracticeHashtable1.executor": "Debug",
     "Application.Practicemission01.executor": "Run",
     "Application.Practicemission1 (1).executor": "Run",
     "Application.Practicemission1.executor": "Run",
+    "Application.PropertyHtmlGenerator.executor": "Run",
     "Application.Tax.executor": "Run",
     "Application.calender1.executor": "Run",
     "Application.ct01.executor": "Run",
@@ -82,6 +97,7 @@
     "Application.zerobasemission.Practicemission1.executor": "Run",
     "Application.다차원배열.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
     "com.codeium.enabled": "true",
     "git-widget-placeholder": "main",
@@ -112,7 +128,46 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.zbct_hint_2_3">
+  <component name="RunManager" selected="Application.PropertyHtmlGenerator">
+    <configuration name="GetMyJavaEnvironmentToHTML" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zbmissions.GetMyJavaEnvironmentToHTML" />
+      <module name="finalclone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zbmissions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NearestLocationFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zbmissions.NearestLocationFinder" />
+      <module name="finalclone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zbmissions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PointerValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zbmissions.PointerValue" />
+      <module name="finalclone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zbmissions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Practicemission1" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="finalclone" />
@@ -120,46 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="calender1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
-      <option name="MAIN_CLASS_NAME" value="calender1" />
-      <module name="finalclone" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ct01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practicecodingtest.inflearnct.ct01" />
+    <configuration name="PropertyHtmlGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zbmissions.PropertyHtmlGenerator" />
       <module name="finalclone" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="practicecodingtest.inflearnct.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ct02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practicecodingtest.inflearnct.ct02" />
-      <module name="finalclone" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practicecodingtest.inflearnct.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="streamapiex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithm.streamapi.streamapiex" />
-      <module name="finalclone" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithm.streamapi.*" />
+          <option name="PATTERN" value="zbmissions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,19 +203,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Practicemission1" />
+      <item itemvalue="Application.GetMyJavaEnvironmentToHTML" />
+      <item itemvalue="Application.NearestLocationFinder" />
+      <item itemvalue="Application.PointerValue" />
+      <item itemvalue="Application.PropertyHtmlGenerator" />
       <item itemvalue="Application.zbct_hint_2_3" />
-      <item itemvalue="Application.ct01" />
-      <item itemvalue="Application.ct02" />
-      <item itemvalue="Application.streamapiex" />
-      <item itemvalue="Application.calender1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PropertyHtmlGenerator" />
+        <item itemvalue="Application.PointerValue" />
+        <item itemvalue="Application.NearestLocationFinder" />
+        <item itemvalue="Application.GetMyJavaEnvironmentToHTML" />
         <item itemvalue="Application.zbct_hint_2_3" />
-        <item itemvalue="Application.streamapiex" />
-        <item itemvalue="Application.ct02" />
-        <item itemvalue="Application.ct01" />
-        <item itemvalue="Application.calender1" />
       </list>
     </recent_temporary>
   </component>
@@ -391,7 +412,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730294914444</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="202411010110">
+      <option name="closed" value="true" />
+      <created>1730434233132</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1730434233132</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -412,7 +441,8 @@
     <MESSAGE value="202410291804" />
     <MESSAGE value="202410291954" />
     <MESSAGE value="202410302228" />
-    <option name="LAST_COMMIT_MESSAGE" value="202410302228" />
+    <MESSAGE value="202411010110" />
+    <option name="LAST_COMMIT_MESSAGE" value="202411010110" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

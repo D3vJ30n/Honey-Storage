@@ -19,9 +19,7 @@
 
 package practicecodingtest.zbct;
 
-import java.util.*;
-
-public class buildpyramid {
+public class zbct_1_1 {
     public int solution(int n) {
         return (1 + n) * n / 2;
     }
