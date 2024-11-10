@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bff5d640-f3fb-451b-896f-26508fa219bb" name="Changes" comment="202411061729">
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_11_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_11_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_11_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_11_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/practicecodingtest/zbct/zbct_11_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="bff5d640-f3fb-451b-896f-26508fa219bb" name="Changes" comment="202411072125">
+      <change afterPath="$PROJECT_DIR$/study/backend/studying/src/zbmissions/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/study/backend/til/02.20241110.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/study/backend/studying/src/zbmissions/PropertyHtmlGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/study/backend/studying/src/zbmissions/PropertyHtmlGenerator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,52 +49,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CalendarProgram (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalendarProgram.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Calender1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CashbackCalculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GetMyJavaEnvironmentToHTML.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Hashtable5.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultiplicationTable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NearestLocationFinder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Numbercount.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Plusnumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PointerValue.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Practice4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PracticeHashtable1.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Practicemission01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Practicemission1 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Practicemission1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PropertyHtmlGenerator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Tax.executor&quot;: &quot;Run&quot;,
-    &quot;Application.calender1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ct01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ct02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.streamapiex.executor&quot;: &quot;Run&quot;,
-    &quot;Application.study.backend.mission.CalendarProgram.executor&quot;: &quot;Run&quot;,
-    &quot;Application.zbct_hint_2_3.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.zerobasemission.Practicemission1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.다차원배열.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/finalclone/study/backend/studying/src/algorithm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Board.executor": "Run",
+    "Application.CalendarProgram (1).executor": "Run",
+    "Application.CalendarProgram.executor": "Run",
+    "Application.Calender1.executor": "Run",
+    "Application.CashbackCalculator.executor": "Run",
+    "Application.GetMyJavaEnvironmentToHTML.executor": "Run",
+    "Application.Hashtable5.executor": "Debug",
+    "Application.Main.executor": "Run",
+    "Application.Main3.executor": "Run",
+    "Application.MultiplicationTable.executor": "Run",
+    "Application.NearestLocationFinder.executor": "Run",
+    "Application.Numbercount.executor": "Debug",
+    "Application.Plusnumber.executor": "Run",
+    "Application.PointerValue.executor": "Run",
+    "Application.Practice4.executor": "Run",
+    "Application.PracticeHashtable1.executor": "Debug",
+    "Application.Practicemission01.executor": "Run",
+    "Application.Practicemission1 (1).executor": "Run",
+    "Application.Practicemission1.executor": "Run",
+    "Application.PropertyHtmlGenerator.executor": "Run",
+    "Application.Tax.executor": "Run",
+    "Application.calender1.executor": "Run",
+    "Application.ct01.executor": "Run",
+    "Application.ct02.executor": "Run",
+    "Application.streamapiex.executor": "Run",
+    "Application.study.backend.mission.CalendarProgram.executor": "Run",
+    "Application.zbct_hint_2_3.executor": "Debug",
+    "Application.zerobasemission.Practicemission1.executor": "Run",
+    "Application.다차원배열.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/finalclone/study/backend/til",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\finalclone\study\backend\til" />
       <recent name="C:\finalclone\study\backend\studying\src\algorithm" />
       <recent name="C:\Users\user\Desktop\study\Honey-Storage\study\javapractices\yswjava" />
       <recent name="C:\Users\user\Desktop\study\Honey-Storage\study\javapractices" />
@@ -114,7 +113,20 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PropertyHtmlGenerator">
+  <component name="RunManager" selected="Application.Board">
+    <configuration name="Board" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zbmissions.Board" />
+      <module name="finalclone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zbmissions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GetMyJavaEnvironmentToHTML" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zbmissions.GetMyJavaEnvironmentToHTML" />
       <module name="finalclone" />
@@ -174,34 +186,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zbct_hint_2_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="practicecodingtest.zbct.zbct_hint_2_3" />
-      <module name="finalclone" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practicecodingtest.zbct.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Practicemission1" />
+      <item itemvalue="Application.Board" />
       <item itemvalue="Application.GetMyJavaEnvironmentToHTML" />
       <item itemvalue="Application.NearestLocationFinder" />
       <item itemvalue="Application.PointerValue" />
       <item itemvalue="Application.PropertyHtmlGenerator" />
-      <item itemvalue="Application.zbct_hint_2_3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Board" />
         <item itemvalue="Application.PropertyHtmlGenerator" />
         <item itemvalue="Application.PointerValue" />
         <item itemvalue="Application.NearestLocationFinder" />
         <item itemvalue="Application.GetMyJavaEnvironmentToHTML" />
-        <item itemvalue="Application.zbct_hint_2_3" />
       </list>
     </recent_temporary>
   </component>
@@ -414,7 +413,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730881807215</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="202411072125">
+      <option name="closed" value="true" />
+      <created>1730982333824</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1730982333825</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -437,7 +444,8 @@
     <MESSAGE value="202410302228" />
     <MESSAGE value="202411010110" />
     <MESSAGE value="202411061729" />
-    <option name="LAST_COMMIT_MESSAGE" value="202411061729" />
+    <MESSAGE value="202411072125" />
+    <option name="LAST_COMMIT_MESSAGE" value="202411072125" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -41,7 +41,7 @@ public class PropertyHtmlGenerator {
            """;
 
     public static void main(String[] args) {
-        // 1. 시스템 속성값 콘솔 출력
+        // 시스템 속성값 콘솔 출력
         System.out.println("-------- 자바 시스템 속성값 출력 시작 --------");
         for (Object k : System.getProperties().keySet()) {
             String key = k.toString();
@@ -50,14 +50,14 @@ public class PropertyHtmlGenerator {
         }
         System.out.println("-------- 자바 시스템 속성값 출력 완료 --------\n");
 
-        // 2. HTML 파일 생성
+        // HTML 파일 생성
         try {
             // HTML 파일 객체 생성
             File file = new File("property.html");
             // BufferedWriter를 사용하여 파일 쓰기 성능 향상
             BufferedWriter writer = new BufferedWriter(new FileWriter(file));
 
-            // 3. 테이블 내용 생성
+            // 테이블 내용 생성
             StringBuilder tableContent = new StringBuilder();
             // 모든 시스템 속성을 순회하며 테이블 행 생성
             for (Object k : System.getProperties().keySet()) {
@@ -68,13 +68,13 @@ public class PropertyHtmlGenerator {
                     key, value));
             }
 
-            // 4. HTML 파일 작성
+            // HTML 파일 작성
             // 테이블 내용을 HTML 템플릿에 삽입
             writer.write(String.format(HTML_TEMPLATE, tableContent.toString()));
             // 파일 쓰기 완료 및 리소스 해제
             writer.close();
 
-            // 5. 결과 출력
+            // 결과 출력
             System.out.println("HTML 파일 생성 완료");
             System.out.println("파일 경로: " + file.getAbsolutePath());
             System.out.println("웹 브라우저에서 파일을 열어 결과를 확인하세요.");
